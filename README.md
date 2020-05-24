@@ -11,4 +11,4 @@ Open terminal
 - npm install (Terminal)
 - node index.js
 #### Demo
-![Demo](images/Untitled_ May 24, 2020 10_31 AM.gif)
+![Demo](jqNodelion/images/Untitled_ May 24, 2020 10_31 AM.gif)
