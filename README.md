@@ -8,7 +8,9 @@ The user will be prompted for their GitHub username, which will be used to make 
 - Test
 ### Installation
 Open terminal 
-- npm install (Terminal)
+- npm install 
+- npm axios install
+- npm requiere install
 - node index.js
 #### Demo
 ![Demo](jqNodelion/images/Untitled_ May 24, 2020 10_31 AM.gif)
