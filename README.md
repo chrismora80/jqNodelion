@@ -14,3 +14,6 @@ Open terminal
 - node index.js
 #### Demo
 open file images
+
+![demo](https://user-images.githubusercontent.com/60753848/82758061-43798b80-9db2-11ea-97e9-cb9e7ad7dc65.gif)
+
