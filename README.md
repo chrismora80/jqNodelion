@@ -13,4 +13,4 @@ Open terminal
 - npm inquirer install
 - node index.js
 #### Demo
-![Demo](jqNodelion/images/Untitled_ May 24, 2020 10_31 AM.gif)
+<iframe src="https://drive.google.com/file/d/13rVoyItzgAdqdLXBNHNdLai14-FR9ju9/preview" width="640" height="480"></iframe>
