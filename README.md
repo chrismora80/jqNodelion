@@ -11,4 +11,4 @@ Open terminal
 - npm install (Terminal)
 - node index.js
 #### Demo
-<imgsrc="Untitled_ May 24, 2020 10_31 AM.gif" width="320" height="200" controls preload></img>
+![Farmers Market Finder Demo](images/Untitled_ May 24, 2020 10_31 AM.gif)
