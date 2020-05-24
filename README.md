@@ -11,4 +11,4 @@ Open terminal
 - npm install (Terminal)
 - node index.js
 #### Demo
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<imgsrc="Untitled_ May 24, 2020 10_31 AM.gif" width="320" height="200" controls preload></img>
