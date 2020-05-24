@@ -13,4 +13,4 @@ Open terminal
 - npm inquirer install
 - node index.js
 #### Demo
-<iframe src="https://drive.google.com/file/d/13rVoyItzgAdqdLXBNHNdLai14-FR9ju9/preview" width="640" height="480"></iframe>
+open file images
