@@ -11,4 +11,4 @@ Open terminal
 - npm install (Terminal)
 - node index.js
 #### Demo
-![Farmers Market Finder Demo](images/Untitled_ May 24, 2020 10_31 AM.gif)
+![Demo](images/Untitled_ May 24, 2020 10_31 AM.gif)
